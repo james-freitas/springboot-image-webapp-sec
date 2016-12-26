@@ -1,0 +1,1 @@
+Spring Boot web application handling images with security
